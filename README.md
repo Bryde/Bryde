@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Bryde
 - 👀 I’m interested in mostly WebDev and stuff (PHP, JS)
-- 🌱 I’m currently learning Git (ironically), Chrome Extensions and various other stuff
+- 🌱 Chrome Extensions and various other stuff
 - 💞️ I’m looking to collaborate on nothing at the moment, I guess?
 - 📫 How to reach me:
-          - Discord: Bryde#2480
+          - Discord: .bryde
 
 
 
